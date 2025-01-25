@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👨‍💻 About Me
+I am a frontend developer who loves building user-friendly websites. I have completed a frontend development course and created my own mini projects to improve my skills. Currently, I am job seeking and practicing coding every day.
 
 
 ## 🌐 Socials:
