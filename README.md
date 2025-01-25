@@ -12,6 +12,9 @@ I am a frontend developer who loves building user-friendly websites. I have comp
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Musharaf-VD&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Musharaf-VD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Musharaf-VD&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Musharaf-VD&icon=6&color=4)](https://visitcount.itsvg.in)
 
